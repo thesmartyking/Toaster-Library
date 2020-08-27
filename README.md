@@ -14,8 +14,7 @@ allprojects {
 
 ```
 
-**Step 2. Add the dependency**
-To use this code enter this in your project to use in build gradle-**Module**
+**Step 2. Add the dependency** 🠊 To use this code enter this in your project to use in build gradle-**Module**
 ```
 dependencies {
 	        implementation 'com.github.thesmartyking:Toaster-Library:1.1'
