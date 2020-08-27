@@ -1,5 +1,4 @@
-# Toaster-Library
-A Library that shows Toast Messages with Short &amp; Long duration
+## Toaster-Library 🠊 A Library that shows Toast Messages with Short &amp; Long duration
 
 **Step 1. Add the JitPack repository to your build file 🠊 Add it in your root build.gradle at the end of repositories:**
 
@@ -21,17 +20,18 @@ dependencies {
 	}
 ```
 
-**Step 3. Use Code -->**
+**Step 3. Use Code 🠊**
 ```
 where context=this, Message="Your Message"
 ```
-**1. Short Toast **
+
+**1. Short Toast**
 
 ```@kotlin
 ToastMsg().st(context,message)
 ```
 
-**2. Long Toast **
+**2. Long Toast**
 
 ```@kotlin
 ToastMsg().lt(context,message)
