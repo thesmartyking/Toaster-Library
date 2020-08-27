@@ -1,7 +1,7 @@
 # Toaster-Library
 A Library that shows Toast Messages with Short &amp; Long duration
 
-**Step 1. Add the JitPack repository to your build file --> Add it in your root build.gradle at the end of repositories:**
+**Step 1. Add the JitPack repository to your build file 🠊 Add it in your root build.gradle at the end of repositories:**
 
 To use this code enter this in your project to use in build gradle-**Project**
 ```
